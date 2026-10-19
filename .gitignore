@@ -1,0 +1,6 @@
+build/
+*.bin
+!herramientas/*.bin
+__pycache__/
+.DS_Store
+*.swp
